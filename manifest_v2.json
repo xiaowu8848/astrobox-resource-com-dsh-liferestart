@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "com.dsh.liferestart",
+    "restype": "quick_app",
+    "name": "人生重开模拟器",
+    "description": "免费的人生重开模拟器，全天赋、全事件、全成就，RW6专属",
+    "preview": [
+      "media/Shell++_3.png",
+      "media/Shell++_2.png",
+      "media/Shell++_1.png"
+    ],
+    "icon": "media/newicon_src.jpg",
+    "cover": "media/IMG_20261006_204452.jpg",
+    "author": [
+      {
+        "name": "xiaowu8848",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw6": {
+      "version": "Beta_1.4.2",
+      "file_name": "downloads/com.dsh.liferestart.debug.Beta_1.4.2.rpk",
+      "versionCode": 43
+    }
+  },
+  "ext": {}
+}
